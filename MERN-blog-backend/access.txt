@@ -1,0 +1,1 @@
+mongodb+srv://mezin24:wwwwww@cluster0.zzyi3.mongodb.net/
